@@ -1,0 +1,23 @@
+body {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: #333;
+  background-color: aquamarine;
+}
+.question {
+  font-weight: 600;
+}
+.answers {
+  margin-bottom: 20px;
+}
+#submit {
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: plum;
+}
+label {
+  display: block;
+}
+#Result {
+  background-color: plum;
+}
