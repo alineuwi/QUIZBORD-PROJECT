@@ -1,6 +1,5 @@
-$("quiz").click(function() {
-  alert("Text: " + $("#test").text());
-});
-$("#btn2").click(function() {
-  alert("HTML: " + $("#test").html());
+$(document).ready(function() {
+  $("button").click(function() {
+    alert("Value: " + $("#quiz").val());
+  });
 });
