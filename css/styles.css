@@ -2,7 +2,7 @@ body {
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
   color: #333;
-  background-color: aquamarine;
+  background-color: wheat;
 }
 .question {
   font-weight: 600;
@@ -13,11 +13,10 @@ body {
 #submit {
   font-family: sans-serif;
   font-size: 20px;
-  background-color: plum;
 }
 label {
   display: block;
 }
 #Result {
-  background-color: plum;
+  background-color: none;
 }
