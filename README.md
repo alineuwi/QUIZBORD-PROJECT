@@ -47,9 +47,9 @@ count += 2;
 ## Link
 
 If you would like a local copy of this website, here there is a link:
-\$ git clone https://github.com/alineuwi/Triangle-tracker.git
+\$ git clone https:https://github.com/alineuwi/QUIZBORD-PROJECT.git/Quiz.html
 
-or :https://alineuwi.github.io/Triangle-tracker/angles.html
+or :https://github.com/alineuwi/QUIZBORD-PROJECT.git
 
 ## Support and contact details
 
